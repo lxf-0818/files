@@ -1,0 +1,248 @@
+{
+   "checksum": "7a1d54c17ddd30c46cd114fc5e227e8d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13285890539388863",
+            "guid": "3424f5ee-4bff-41a7-9dab-cecb08c22b27",
+            "id": "5",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13285917214601498",
+            "guid": "abe6e68f-2d23-4232-9baa-e41bda1acc3a",
+            "id": "10",
+            "name": "phpMyAdmin",
+            "type": "url",
+            "url": "http://localhost/phpmyadmin/"
+         }, {
+            "children": [ {
+               "date_added": "13285890696541180",
+               "guid": "0ab49445-ff7c-409d-9f41-6b078e959857",
+               "id": "6",
+               "name": "Build your own Raspberry Pi RFID Attendance System - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-rfid-attendance-system/"
+            }, {
+               "date_added": "13285907760104915",
+               "guid": "855c3bd8-ba97-4860-89f7-8a4d0f16f5e3",
+               "id": "7",
+               "name": "Build your own Raspberry Pi NGINX Web Server - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-nginx/"
+            }, {
+               "date_added": "13285907841315423",
+               "guid": "8ef2c7bf-c655-436b-b356-3f908a8f908b",
+               "id": "8",
+               "name": "How to Install PHPMyAdmin on the Raspberry Pi - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-phpmyadmin/"
+            } ],
+            "date_added": "13286041392625394",
+            "date_modified": "13286041493276085",
+            "guid": "77092398-7bc4-47b7-a078-8118dea14c91",
+            "id": "15",
+            "name": "attendance",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13285951576801096",
+               "guid": "1406ce45-e3b2-4209-a542-4b3371aea3b0",
+               "id": "12",
+               "name": "Getting Started With Blynk On The Raspberry Pi 3+ - BC Robotics",
+               "type": "url",
+               "url": "https://bc-robotics.com/tutorials/getting-started-blynk-raspberry-pi-3/"
+            }, {
+               "date_added": "13286682699604415",
+               "guid": "4ee0cee0-b67b-44ce-b99f-ab482563dc5d",
+               "id": "20",
+               "name": "Blynk Example Browser",
+               "type": "url",
+               "url": "https://examples.blynk.cc/?board=Raspberry%20Pi&shield=System%20default&example=Widgets%2FEmail"
+            }, {
+               "date_added": "13286832601346378",
+               "guid": "aa6af06f-6612-45d1-94bb-97a155ff9f01",
+               "id": "21",
+               "name": "Raspberry Pi Tutorial Series: 1-Wire DS18B20 Sensor - Waveshare Wiki",
+               "type": "url",
+               "url": "https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_1-Wire_DS18B20_Sensor"
+            }, {
+               "date_added": "13286000021501829",
+               "guid": "31150fbf-c533-4a77-970e-f1714bba4268",
+               "id": "13",
+               "name": "How to control Raspberry Pi GPIO via http web server – E-Tinkers",
+               "type": "url",
+               "url": "https://www.e-tinkers.com/2018/04/how-to-control-raspberry-pi-gpio-via-http-web-server/"
+            }, {
+               "date_added": "13286998058300007",
+               "guid": "587059fa-6de9-412d-9740-f6b2ce705cc3",
+               "id": "25",
+               "name": "Raspberry Pi Temperature Sensor using the DS18B20 - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-temperature-sensor/"
+            }, {
+               "date_added": "13288416520945858",
+               "guid": "3e771af3-5490-492a-af65-1933e2150b9b",
+               "id": "38",
+               "name": "Blynk Community - Join the most popular IoT platform to connect your devices to the cloud, design apps to control them, and manage your deployed products at scale",
+               "type": "url",
+               "url": "https://community.blynk.cc/"
+            } ],
+            "date_added": "13286041444563847",
+            "date_modified": "13288753822981852",
+            "guid": "4dac1712-75a0-406c-a2dc-d00d09e946b1",
+            "id": "16",
+            "name": "blynk",
+            "type": "folder"
+         }, {
+            "date_added": "13286223126818932",
+            "guid": "9e442f91-74ad-4870-9b13-b5a97711fb95",
+            "id": "18",
+            "name": "Attendance System",
+            "type": "url",
+            "url": "http://10.0.0.222/attendance/attendance.php"
+         }, {
+            "children": [ {
+               "date_added": "13286935873176277",
+               "guid": "90ad5492-c498-4a31-879f-d640bb86ebff",
+               "id": "22",
+               "name": "Raspberry Pi INA219 Power Measurement Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BgShCD7xT_A"
+            } ],
+            "date_added": "13286935902027506",
+            "date_modified": "13286998058300007",
+            "guid": "d50c9c55-3736-4bb8-9787-c4f890021f50",
+            "id": "23",
+            "name": "INA219",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13287888830031009",
+               "guid": "5fc39e41-0177-4410-9208-0862baa7ab76",
+               "id": "29",
+               "name": "Adafruit_Python_ADS1x15/simpletest.py at master · adafruit/Adafruit_Python_ADS1x15 · GitHub",
+               "type": "url",
+               "url": "https://github.com/adafruit/Adafruit_Python_ADS1x15/blob/master/examples/simpletest.py"
+            }, {
+               "date_added": "13287890181304797",
+               "guid": "6aa8c2cc-7bc2-4767-be3e-33232920eea2",
+               "id": "31",
+               "name": "ADS1115 ADC 16 bit high precision Arduino Tutorial",
+               "type": "url",
+               "url": "https://electronoobs.com/eng_arduino_tut83.php"
+            }, {
+               "date_added": "13287935418329317",
+               "guid": "24767ece-7d65-4dba-b99b-0b5f0644db19",
+               "id": "32",
+               "name": "GitHub - adafruit/Adafruit_ADS1X15: Driver for TI's ADS1015: 12-bit Differential or Single-Ended ADC with PGA and Comparator",
+               "type": "url",
+               "url": "https://github.com/adafruit/Adafruit_ADS1X15"
+            }, {
+               "date_added": "13287935716361491",
+               "guid": "be4b425e-3c5c-4a34-b40c-225896fdc3c1",
+               "id": "34",
+               "name": "openlabtools.eng.cam.ac.uk/Resources/Datalog/RPi_ADS1115/code/ADS1115_sample.c",
+               "type": "url",
+               "url": "http://openlabtools.eng.cam.ac.uk/Resources/Datalog/RPi_ADS1115/code/ADS1115_sample.c"
+            }, {
+               "date_added": "13287937505554227",
+               "guid": "0adfc912-a91c-4d18-b141-43769b29367f",
+               "id": "35",
+               "name": "adcs-introduction-to-i2c-example-presentation.pdf",
+               "type": "url",
+               "url": "https://training.ti.com/sites/default/files/docs/adcs-introduction-to-i2c-example-presentation.pdf"
+            }, {
+               "date_added": "13287599427717730",
+               "guid": "77faf1b3-c4af-469c-8167-a5c2c31339a5",
+               "id": "27",
+               "name": "ADS1115 a/d converter and Raspberry Pi example | Pi bits",
+               "type": "url",
+               "url": "http://www.pibits.net/code/ads1115-analog-to-digital-converter-and-raspberry-pi-example.php"
+            }, {
+               "date_added": "13288753822981852",
+               "guid": "2bbb95ca-30f0-46e8-88c3-acacf88a089c",
+               "id": "44",
+               "name": "Voltage Divider Conversion Calculator | DigiKey",
+               "type": "url",
+               "url": "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-voltage-divider"
+            } ],
+            "date_added": "13287888843501419",
+            "date_modified": "13288753829588543",
+            "guid": "06ab508f-60db-4590-a12d-1821fe772687",
+            "id": "30",
+            "name": "adc",
+            "type": "folder"
+         }, {
+            "date_added": "13288351295151723",
+            "guid": "11fe3a08-9664-46ef-9452-2a34588cd64a",
+            "id": "37",
+            "name": "Basics of the I2C Communication Protocol",
+            "type": "url",
+            "url": "https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/"
+         }, {
+            "children": [ {
+               "date_added": "13288156756211296",
+               "guid": "beb96b38-a496-4b2b-a742-1945e010d5bd",
+               "id": "36",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13288479960900727",
+               "guid": "a9029130-920b-4ffa-9366-253dc7315055",
+               "id": "40",
+               "name": "Hello World - GitHub Docs",
+               "type": "url",
+               "url": "https://docs.github.com/en/get-started/quickstart/hello-world"
+            } ],
+            "date_added": "13288479911597720",
+            "date_modified": "13288484702087347",
+            "guid": "c7ccfd3a-7c82-447d-97f1-26bc9fe79ced",
+            "id": "39",
+            "name": "github",
+            "type": "folder"
+         }, {
+            "date_added": "13288484702087347",
+            "guid": "4fa1430e-c577-4734-a737-e59d38bbe341",
+            "id": "42",
+            "name": "How to Make a Home Automation Hub - Circuit Basics",
+            "type": "url",
+            "url": "https://www.circuitbasics.com/how-to-make-a-home-automation-hub-with-node-red-esp8266-and-raspberry-pi/"
+         }, {
+            "date_added": "13288750902574191",
+            "guid": "a0e55883-b5c5-4c07-8a79-f9600947e551",
+            "id": "43",
+            "name": "Makefile Tutorial By Example",
+            "type": "url",
+            "url": "https://makefiletutorial.com/"
+         } ],
+         "date_added": "13285890514422337",
+         "date_modified": "13288750902574191",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13285890514422343",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13285890514422350",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
