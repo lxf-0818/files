@@ -1,5 +1,5 @@
 {
-   "checksum": "7a1d54c17ddd30c46cd114fc5e227e8d",
+   "checksum": "3dff88b3534c6f6e25f8ea2ef087aeb8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -9,6 +9,13 @@
             "name": "Google",
             "type": "url",
             "url": "https://www.google.com/"
+         }, {
+            "date_added": "13295481539581126",
+            "guid": "9a0f5d44-6252-46f6-9f94-63308d59a5d3",
+            "id": "116",
+            "name": "Welcome to the RNT Insider Area | Random Nerd Tutorials",
+            "type": "url",
+            "url": "https://randomnerdtutorials.com/insider/"
          }, {
             "date_added": "13285917214601498",
             "guid": "abe6e68f-2d23-4232-9baa-e41bda1acc3a",
@@ -40,7 +47,7 @@
                "url": "https://pimylifeup.com/raspberry-pi-phpmyadmin/"
             } ],
             "date_added": "13286041392625394",
-            "date_modified": "13286041493276085",
+            "date_modified": "13290014101466002",
             "guid": "77092398-7bc4-47b7-a078-8118dea14c91",
             "id": "15",
             "name": "attendance",
@@ -88,20 +95,27 @@
                "name": "Blynk Community - Join the most popular IoT platform to connect your devices to the cloud, design apps to control them, and manage your deployed products at scale",
                "type": "url",
                "url": "https://community.blynk.cc/"
+            }, {
+               "date_added": "13292908410305794",
+               "guid": "97a7daad-2483-4082-9b71-ce00d3061109",
+               "id": "111",
+               "name": "Button Background Color - Ideas / Widgets Ideas - Blynk Community",
+               "type": "url",
+               "url": "https://community.blynk.cc/t/button-background-color/23483/7"
+            }, {
+               "date_added": "13293982997415936",
+               "guid": "49cefb14-01e6-4c7b-9ae9-ad41334813e1",
+               "id": "113",
+               "name": "Quickstart - Blynk Documentation",
+               "type": "url",
+               "url": "https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk"
             } ],
             "date_added": "13286041444563847",
-            "date_modified": "13288753822981852",
+            "date_modified": "13295492178472326",
             "guid": "4dac1712-75a0-406c-a2dc-d00d09e946b1",
             "id": "16",
             "name": "blynk",
             "type": "folder"
-         }, {
-            "date_added": "13286223126818932",
-            "guid": "9e442f91-74ad-4870-9b13-b5a97711fb95",
-            "id": "18",
-            "name": "Attendance System",
-            "type": "url",
-            "url": "http://10.0.0.222/attendance/attendance.php"
          }, {
             "children": [ {
                "date_added": "13286935873176277",
@@ -167,9 +181,16 @@
                "name": "Voltage Divider Conversion Calculator | DigiKey",
                "type": "url",
                "url": "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-voltage-divider"
+            }, {
+               "date_added": "13290316855894212",
+               "guid": "4478aefe-3791-4d11-9469-a2a67eef5306",
+               "id": "84",
+               "name": "ESP8266 ADC - Read Analog Values with Arduino IDE, MicroPython and Lua | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/"
             } ],
             "date_added": "13287888843501419",
-            "date_modified": "13288753829588543",
+            "date_modified": "13290317128060603",
             "guid": "06ab508f-60db-4590-a12d-1821fe772687",
             "id": "30",
             "name": "adc",
@@ -217,9 +238,488 @@
             "name": "Makefile Tutorial By Example",
             "type": "url",
             "url": "https://makefiletutorial.com/"
+         }, {
+            "children": [ {
+               "date_added": "13288844561547376",
+               "guid": "e3cce2c6-af3e-4fd9-851b-f06e40048f41",
+               "id": "46",
+               "name": "The Raspberry Pi 4 needs a fan, here's why and how you can add one | Jeff Geerling",
+               "type": "url",
+               "url": "https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one"
+            } ],
+            "date_added": "13288844585835152",
+            "date_modified": "13288931284048396",
+            "guid": "d0b74b3b-4fda-4826-ae1d-7c77e5ac5cd0",
+            "id": "47",
+            "name": "stress",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13288931284048396",
+               "guid": "bcee583e-32f1-4c0f-b6c4-18bc631b113c",
+               "id": "48",
+               "name": "The Ultimate Raspberry Pi Commands Cheat Sheet",
+               "type": "url",
+               "url": "https://www.makeuseof.com/tag/raspberry-pi-commands-cheat-sheet/"
+            }, {
+               "date_added": "13295922815302059",
+               "guid": "0e302e13-fab8-4f06-a6d3-e97c152ad52a",
+               "id": "118",
+               "name": "Getting Started with the ESP32 - Using the Arduino IDE",
+               "type": "url",
+               "url": "https://dronebotworkshop.com/esp32-intro/"
+            }, {
+               "date_added": "13296001553237021",
+               "guid": "b08ce9c8-ec04-45ec-b0a3-cbe17d554496",
+               "id": "119",
+               "name": "Introduction to LittleFs, Write LittleFs, Read Little Fs and Delete in LittleFs : 11 Steps - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/Introduction-to-LittleFs-Write-LittleFs-Read-Littl/"
+            } ],
+            "date_added": "13288931307346920",
+            "date_modified": "13296002392981158",
+            "guid": "0f38e85b-3a9e-4eee-b652-1ae51b8a00be",
+            "id": "49",
+            "name": "class",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13288972608466053",
+               "guid": "442cebda-c2db-475c-abd5-d1907a023b10",
+               "id": "51",
+               "name": "raspbian - How can I get a list of user installed packages - Raspberry Pi Stack Exchange",
+               "type": "url",
+               "url": "https://raspberrypi.stackexchange.com/questions/91024/how-can-i-get-a-list-of-user-installed-packages"
+            }, {
+               "date_added": "13288931958416801",
+               "guid": "bda08c72-ec5a-4c2d-a3e9-f34f25777b18",
+               "id": "50",
+               "name": "How to list Raspbian installed packages | Futurity",
+               "type": "url",
+               "url": "http://www.futurity.co.uk/raspberry-pi-help/how-to-list-raspbian-installed-packages/"
+            } ],
+            "date_added": "13288972632996789",
+            "date_modified": "13289104100513158",
+            "guid": "6840fb40-8f51-4419-b259-8656405b6384",
+            "id": "52",
+            "name": "system",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13289104100513158",
+               "guid": "e5730b02-cd50-4d46-8519-02f84652b7f9",
+               "id": "53",
+               "name": "MicroPython tutorial for ESP8266 — MicroPython 1.18 documentation",
+               "type": "url",
+               "url": "https://docs.micropython.org/en/latest/esp8266/tutorial/index.html"
+            }, {
+               "date_added": "13289232240087074",
+               "guid": "adb11c3c-bb1f-4df5-8f86-09e3d843f897",
+               "id": "58",
+               "name": "Connect the ESP8266 WiFi Chip to your Raspberry Pi",
+               "type": "url",
+               "url": "https://makecademy.com/connect-esp8266-raspberry-pi"
+            }, {
+               "date_added": "13289234639852557",
+               "guid": "f082cef0-f92b-413c-905a-daa8db95aa35",
+               "id": "59",
+               "name": "Getting Started With the ESP8266 ESP-01 : 20 Steps - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/"
+            }, {
+               "date_added": "13289333125684263",
+               "guid": "d787b697-1ce7-4f13-a16b-1a0c1bf7d8ea",
+               "id": "61",
+               "name": "Breadboard and Program an ESP-01 Circuit with the Arduino IDE - Projects",
+               "type": "url",
+               "url": "https://www.allaboutcircuits.com/projects/breadboard-and-program-an-esp-01-circuit-with-the-arduino-ide/"
+            }, {
+               "children": [ {
+                  "date_added": "13289333534362288",
+                  "guid": "1617dada-f153-43a0-8109-8e375f0b5364",
+                  "id": "62",
+                  "name": "Arduino: Possible to put the ESP8266 in bootloader mode without a FTDI? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=phNB4EiaIzQ"
+               }, {
+                  "date_added": "13289333659530584",
+                  "guid": "78134b41-8aad-454c-a27f-ff2692ee8c0a",
+                  "id": "64",
+                  "name": "Flashing the firmware - NodeMCU Documentation",
+                  "type": "url",
+                  "url": "https://nodemcu.readthedocs.io/en/latest/flash/"
+               }, {
+                  "date_added": "13289333803981662",
+                  "guid": "1dd60439-140a-451d-9642-e72903fbad3e",
+                  "id": "65",
+                  "name": "ESP8266 F.A.Q. | Adafruit Feather HUZZAH ESP8266 | Adafruit Learning System",
+                  "type": "url",
+                  "url": "https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/faq"
+               } ],
+               "date_added": "13289333569615645",
+               "date_modified": "13289365623494528",
+               "guid": "27ad0b2f-d9c6-4edc-87f7-ac30b231734d",
+               "id": "63",
+               "name": "boot",
+               "type": "folder"
+            }, {
+               "date_added": "13289365623494528",
+               "guid": "b271e17d-53a9-40bd-bf2f-d064765bbc26",
+               "id": "66",
+               "name": "How to Use the ESP8266 for Wireless Communication With Arduino and Raspberry Pi | ESP8266 | Maker Pro",
+               "type": "url",
+               "url": "https://maker.pro/esp8266/tutorial/how-to-use-the-esp8266-for-wireless-communication-with-arduino-and-raspberry-pi"
+            }, {
+               "date_added": "13289366360967484",
+               "guid": "03fbd611-3e7f-4934-a2ea-7fed04e166ac",
+               "id": "67",
+               "name": "Using Raspberry Pi to flash ESP8266 | Code, the Universe and everything...",
+               "type": "url",
+               "url": "https://blog.3d-logic.com/2017/12/01/using-raspberry-pi-to-flash-esp8266/"
+            }, {
+               "date_added": "13289371877233090",
+               "guid": "16c4a245-2d72-4340-8f1c-6c080077ffd4",
+               "id": "68",
+               "name": "Getting started with NodeMCU (ESP8266 tutorial #1) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=p06NNRq5NTU"
+            }, {
+               "date_added": "13289371987583820",
+               "guid": "e2efed28-60fc-430d-b739-a7bc36cb7ee5",
+               "id": "69",
+               "name": "Send data from ESP8266 or ESP32 to Raspberry Pi via MQTT",
+               "type": "url",
+               "url": "https://diyi0t.com/microcontroller-to-raspberry-pi-wifi-mqtt-communication/"
+            }, {
+               "date_added": "13289372203915172",
+               "guid": "87058b67-8b9d-4576-9afb-f21eee6f8fae",
+               "id": "70",
+               "name": "How to Use MQTT With the Raspberry Pi and ESP8266 : 8 Steps (with Pictures) - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/How-to-Use-MQTT-With-the-Raspberry-Pi-and-ESP8266/"
+            }, {
+               "date_added": "13289372559306161",
+               "guid": "19b74ba3-9902-4310-b49e-d319bd7f4cf1",
+               "id": "71",
+               "name": "How to connect an ESP8266 to an Arduino UNO — Teo's blog",
+               "type": "url",
+               "url": "http://www.teomaragakis.com/hardware/electronics/how-to-connect-an-esp8266-to-an-arduino-uno/"
+            }, {
+               "date_added": "13289753725046509",
+               "guid": "a2d77903-7ba7-4cc1-9f1b-be03a56a2027",
+               "id": "74",
+               "name": "A Beginner's Guide to the ESP8266",
+               "type": "url",
+               "url": "https://tttapa.github.io/ESP8266/Chap04%20-%20Microcontroller.html"
+            }, {
+               "date_added": "13289926980832422",
+               "guid": "3bba00a3-8b44-446b-93c6-c886c2428d4b",
+               "id": "77",
+               "name": "ESP8266 NodeMCU Static/Fixed IP Address (Arduino IDE) | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-nodemcu-static-fixed-ip-address-arduino/"
+            }, {
+               "date_added": "13289950058711685",
+               "guid": "1bb23d04-ea35-468f-a527-afac0c5cd00c",
+               "id": "78",
+               "name": "How to Assign a Static / Fixed IP Address | ESP8266 | ESP32 | Arduino - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=B9jJI7p2Gw4"
+            }, {
+               "date_added": "13290014101466002",
+               "guid": "e264cffb-a2a4-4a25-af0a-653314456873",
+               "id": "79",
+               "name": "A Beginner's Guide to the ESP8266",
+               "type": "url",
+               "url": "https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html"
+            }, {
+               "date_added": "13290014375762421",
+               "guid": "e9ac6589-eab8-42f3-988b-6e3680a76ed9",
+               "id": "80",
+               "name": "How to disable Wi-Fi on Raspberry Pi? (7 ways, Lite/Desktop) – RaspberryTips",
+               "type": "url",
+               "url": "https://raspberrytips.com/disable-wifi-raspberry-pi/"
+            }, {
+               "date_added": "13290231088387915",
+               "guid": "696f812c-6f3e-49c0-9ec3-d0f6b48ba308",
+               "id": "82",
+               "name": "Client — ESP8266 Arduino Core 2.5.0 documentation",
+               "type": "url",
+               "url": "https://arduino-esp8266.readthedocs.io/en/2.5.0/esp8266wifi/client-examples.html"
+            }, {
+               "date_added": "13290231377961727",
+               "guid": "167ab569-911f-40bf-81aa-c7b3d133867f",
+               "id": "83",
+               "name": "ESP8266WiFi library — ESP8266 Arduino Core 3.0.2 documentation",
+               "type": "url",
+               "url": "https://arduino-esp8266.readthedocs.io/en/3.0.2/esp8266wifi/readme.html"
+            }, {
+               "date_added": "13290317128060603",
+               "guid": "ff9565fd-cbd9-4869-8209-1c3016058ba4",
+               "id": "85",
+               "name": "Control LED Using PushButton With NodeMCU : 6 Steps (with Pictures) - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/Control-LED-Using-PushButton-With-NodeMCU/"
+            }, {
+               "date_added": "13290358561872910",
+               "guid": "723ea37e-4588-4e73-8712-fcb72ec764a0",
+               "id": "86",
+               "name": "ESP8266 Pinout Reference: Which GPIO pins should you use? | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/"
+            }, {
+               "children": [ {
+                  "date_added": "13290361176775951",
+                  "guid": "3c23725b-7b26-4083-a878-b20dd541de18",
+                  "id": "88",
+                  "name": "ADS1115 I2C external ADC with ESP32 in Arduino IDE",
+                  "type": "url",
+                  "url": "https://microcontrollerslab.com/ads1115-external-adc-with-esp32/"
+               }, {
+                  "date_added": "13289752978981692",
+                  "guid": "78e30787-65bf-469d-9b2b-148f96e43add",
+                  "id": "73",
+                  "name": "ads1115 - NodeMCU Documentation",
+                  "type": "url",
+                  "url": "https://nodemcu.readthedocs.io/en/release/modules/ads1115/"
+               }, {
+                  "date_added": "13290569038212635",
+                  "guid": "8bf945c6-1ee7-484b-be06-65f896f5c7a5",
+                  "id": "96",
+                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
+                  "type": "url",
+                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/9"
+               }, {
+                  "date_added": "13290572545222031",
+                  "guid": "99d463a7-b4ee-4f43-842f-8707f3932207",
+                  "id": "98",
+                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
+                  "type": "url",
+                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/15"
+               }, {
+                  "date_added": "13290573555832878",
+                  "guid": "12cfcfcd-ee73-488c-8d9a-08242995a52d",
+                  "id": "99",
+                  "name": "Exercise: NodeMCU I2C ADC",
+                  "type": "url",
+                  "url": "https://cmuphyscomp.github.io/60-223-f16/exercises/mobile/NodeMCU-I2C-ADC/index.html"
+               } ],
+               "date_added": "13290361212630057",
+               "date_modified": "13290581084938938",
+               "guid": "7611b4fe-5215-4221-85ba-0d5bfae7a2ed",
+               "id": "89",
+               "name": "ADC_ESP",
+               "type": "folder"
+            }, {
+               "date_added": "13290557879459045",
+               "guid": "920f4c2f-e170-4ba0-afcb-2f0ea7d0404c",
+               "id": "93",
+               "name": "ESP8266 Interrupts and Timers using Arduino IDE (NodeMCU) | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/interrupts-timers-esp8266-arduino-ide-nodemcu/"
+            }, {
+               "date_added": "13290567053869446",
+               "guid": "a4588b68-23a3-4ce0-81e3-cda9d4cd3be9",
+               "id": "94",
+               "name": "NodeMCU GPIO Interrupts with Arduino IDE | NodeMCU",
+               "type": "url",
+               "url": "https://www.electronicwings.com/nodemcu/nodemcu-gpio-interrupts-with-arduino-ide"
+            }, {
+               "date_added": "13290568299842578",
+               "guid": "62b957db-f6a5-4527-852f-0655d4ba0d53",
+               "id": "95",
+               "name": "NodeMCU GPIO with Arduino IDE | NodeMCU",
+               "type": "url",
+               "url": "https://www.electronicwings.com/nodemcu/nodemcu-gpio-with-arduino-ide"
+            }, {
+               "date_added": "13290630339631816",
+               "guid": "7d519d6e-5027-43af-917a-7db7a53e1d38",
+               "id": "101",
+               "name": "ESP8266: Class Members",
+               "type": "url",
+               "url": "https://links2004.github.io/Arduino/functions_r.html#index_r"
+            }, {
+               "date_added": "13290714280906162",
+               "guid": "15425eb4-df0b-4444-a9a7-e6acca789603",
+               "id": "102",
+               "name": "NodeMCU Development Kit/Board | NodeMCU",
+               "type": "url",
+               "url": "https://www.electronicwings.com/nodemcu/nodemcu-development-kitboard"
+            }, {
+               "date_added": "13292084573709101",
+               "guid": "e49f4272-d34e-4bd5-ab39-4df6a759ab2a",
+               "id": "108",
+               "name": "Installing ESP8266 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/"
+            }, {
+               "date_added": "13292902337506584",
+               "guid": "7d8359ec-cee9-4d9a-a825-824594e7934a",
+               "id": "110",
+               "name": "How to Connect an LCD Display to ESP8266 NodeMCU",
+               "type": "url",
+               "url": "https://www.losant.com/blog/how-to-connect-lcd-esp8266-nodemcu"
+            }, {
+               "date_added": "13296061814980763",
+               "guid": "0235ba57-29cc-4993-a0aa-02a014c3c418",
+               "id": "125",
+               "name": "ESP8266 DS18B20 Sensor Web Server Arduino IDE (Single, Multiple) | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/"
+            }, {
+               "date_added": "13296183070107135",
+               "guid": "ff774af0-e69d-4de5-9e41-ac94059967fc",
+               "id": "127",
+               "name": "Raspberry Pi DS18B20 Temperature Sensor Tutorial - Circuit Basics",
+               "type": "url",
+               "url": "https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/"
+            }, {
+               "date_added": "13296363771277721",
+               "guid": "9170e523-593f-4e1f-b14d-f392d45d0d97",
+               "id": "129",
+               "name": "DIY Cloud Weather Station with ESP32 or ESP8266 | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/cloud-weather-station-esp32-esp8266/"
+            }, {
+               "date_added": "13296364143040028",
+               "guid": "73132edf-35fc-4e4c-99c1-1bc43a314b47",
+               "id": "130",
+               "name": "ESP8266 NodeMCU WebSerial: Web-based Remote Serial Monitor | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-nodemcu-webserial-library/"
+            }, {
+               "date_added": "13296364509129459",
+               "guid": "31a91b34-7645-4ee9-b32a-ab56c29d9f62",
+               "id": "131",
+               "name": "ESP8266 NodeMCU Send Emails SMTP Server: HTML, Text, Attachments (Arduino) | Random Nerd Tutorials",
+               "type": "url",
+               "url": "https://randomnerdtutorials.com/esp8266-nodemcu-send-email-smtp-server-arduino/"
+            }, {
+               "date_added": "13297349806098811",
+               "guid": "8b40a78f-757b-4d47-bd52-d4d839d0419f",
+               "id": "133",
+               "name": "ESP 8266 Nodemcu Uploading code over wifi | ESP OTA UPDATE - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jscp4a59DqA"
+            } ],
+            "date_added": "13289104136741118",
+            "date_modified": "13297349806098811",
+            "guid": "a6ed7695-1c4c-4500-b781-9f28f7c7d28d",
+            "id": "54",
+            "name": "esp8266",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13289176022265673",
+               "guid": "41adefce-7707-4215-93ba-fe3707f16e0a",
+               "id": "55",
+               "name": "Install Arduino IDE on Raspberry Pi - Raspberry Pi Spy",
+               "type": "url",
+               "url": "https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/"
+            } ],
+            "date_added": "13289176059067632",
+            "date_modified": "13289232240087074",
+            "guid": "530138a9-49fe-4f33-beb6-660dfb346a30",
+            "id": "56",
+            "name": "ardunio",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13289761458087389",
+               "guid": "238719bf-df20-47d7-90cd-7b150c3552a7",
+               "id": "75",
+               "name": "What is a simple C or C++ TCP server and client example? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/662328/what-is-a-simple-c-or-c-tcp-server-and-client-example"
+            } ],
+            "date_added": "13289761482584449",
+            "date_modified": "13289926980832422",
+            "guid": "a1539b2b-c0cc-42c1-8fa4-3a430c1ef15f",
+            "id": "76",
+            "name": "sockets c++",
+            "type": "folder"
+         }, {
+            "date_added": "13290482066534713",
+            "guid": "a03d167c-e846-4d2b-b325-690ed74d2052",
+            "id": "91",
+            "name": "C Linux Code/Question asked in recent real company interviews: Concurrent Server handling Multiple Clients Code in C in Linux Platform",
+            "type": "url",
+            "url": "http://clinuxcode.blogspot.com/2014/02/concurrent-server-handling-multiple.html"
+         }, {
+            "date_added": "13290581084938938",
+            "guid": "371042ad-a705-4be3-8365-622f36902e54",
+            "id": "100",
+            "name": "c++ - Determining the IP address of a connected client on the server - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/4282369/determining-the-ip-address-of-a-connected-client-on-the-server"
+         }, {
+            "children": [ {
+               "date_added": "13290752101111499",
+               "guid": "e1ac9aa0-e8b1-4193-b04c-c0739121a24b",
+               "id": "103",
+               "name": "pi 4 - Power Raspberry Pi 4 (4GB) In any Car - Raspberry Pi Stack Exchange",
+               "type": "url",
+               "url": "https://raspberrypi.stackexchange.com/questions/113526/power-raspberry-pi-4-4gb-in-any-car"
+            }, {
+               "date_added": "13290753809154192",
+               "guid": "b378f575-16c0-44bc-a2fb-774100d335bf",
+               "id": "105",
+               "name": "Putting a Raspberry Pi in a Car is a Great Idea. Here’s How it’s Done. | by Aaron Turner | Medium",
+               "type": "url",
+               "url": "https://medium.com/@torch2424/putting-a-raspberry-pi-in-a-car-is-a-great-idea-heres-how-it-s-done-2c09faa3fab"
+            }, {
+               "date_added": "13290828719140518",
+               "guid": "23fb0e2a-23e0-4540-b253-c9b678e50f55",
+               "id": "106",
+               "name": "pi 3 - Raspberry Pi 3 model B \"dtoverlay=gpio-shutdown\" - Raspberry Pi Stack Exchange",
+               "type": "url",
+               "url": "https://raspberrypi.stackexchange.com/questions/77905/raspberry-pi-3-model-b-dtoverlay-gpio-shutdown"
+            } ],
+            "date_added": "13290752138942466",
+            "date_modified": "13292084573709101",
+            "guid": "5fb1131c-ca5e-46c1-b0d0-a8b0244dded3",
+            "id": "104",
+            "name": "power 4 pi",
+            "type": "folder"
+         }, {
+            "date_added": "13296002392981158",
+            "guid": "1155f3d2-70b6-4009-9ddc-8c8cc762a837",
+            "id": "120",
+            "name": "Verizon DNS Servers in United States Of America",
+            "type": "url",
+            "url": "https://dnschecker.org/dns/United-States-of-America/verizon"
+         }, {
+            "children": [ {
+               "date_added": "13296060478795704",
+               "guid": "1af0f290-10c3-4714-9966-14797b04c8c7",
+               "id": "121",
+               "name": "How to Find My DNS Server IP Address in Linux",
+               "type": "url",
+               "url": "https://www.tecmint.com/find-my-dns-server-ip-address-in-linux/"
+            }, {
+               "date_added": "13296061515451964",
+               "guid": "9f3debaf-0156-4265-80ca-66357b34de09",
+               "id": "123",
+               "name": "How to Setup a Raspberry Pi Static IP Address - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-static-ip-address/"
+            }, {
+               "date_added": "13296061530859270",
+               "guid": "4a0de52d-2f5b-4ece-ad09-b1aff7eb5c60",
+               "id": "124",
+               "name": "How to Setup a Raspberry Pi DNS Server - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-dns-server/"
+            } ],
+            "date_added": "13296060494871196",
+            "date_modified": "13296061814980763",
+            "guid": "e89ebf09-7fcf-47ce-b77a-df591e59d12b",
+            "id": "122",
+            "name": "DNS",
+            "type": "folder"
          } ],
          "date_added": "13285890514422337",
-         "date_modified": "13288750902574191",
+         "date_modified": "13296060478795704",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
