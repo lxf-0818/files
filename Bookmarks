@@ -1,5 +1,5 @@
 {
-   "checksum": "3dff88b3534c6f6e25f8ea2ef087aeb8",
+   "checksum": "6faf6f6eedde45e6cbe78355b3880380",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -45,9 +45,16 @@
                "name": "How to Install PHPMyAdmin on the Raspberry Pi - Pi My Life Up",
                "type": "url",
                "url": "https://pimylifeup.com/raspberry-pi-phpmyadmin/"
+            }, {
+               "date_added": "13299345119695391",
+               "guid": "9d25aa71-fc89-44fb-be28-1821f3bb71e7",
+               "id": "165",
+               "name": "Setup a Raspberry Pi MYSQL Database - Pi My Life Up",
+               "type": "url",
+               "url": "https://pimylifeup.com/raspberry-pi-mysql/"
             } ],
             "date_added": "13286041392625394",
-            "date_modified": "13290014101466002",
+            "date_modified": "13299366314663704",
             "guid": "77092398-7bc4-47b7-a078-8118dea14c91",
             "id": "15",
             "name": "attendance",
@@ -109,9 +116,37 @@
                "name": "Quickstart - Blynk Documentation",
                "type": "url",
                "url": "https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk"
+            }, {
+               "date_added": "13297730286098390",
+               "guid": "27d9a480-6c2e-4a00-b34d-ab0bfed1fb12",
+               "id": "139",
+               "name": "docs.blynk.cc/#blynk-main-operations-change-widget-properties",
+               "type": "url",
+               "url": "http://docs.blynk.cc/#blynk-main-operations-change-widget-properties"
+            }, {
+               "date_added": "13297731154107371",
+               "guid": "b3026869-3dd5-41e9-8f2f-aec1786dfa86",
+               "id": "140",
+               "name": "Widget Properties - Blynk Documentation",
+               "type": "url",
+               "url": "https://docs.blynk.io/en/blynk.edgent/mainoperations/widget-properties"
+            }, {
+               "date_added": "13297782221892366",
+               "guid": "7a5928c6-d742-44f3-9d47-18a13b5f4830",
+               "id": "142",
+               "name": "NTP Server to get Date and Time ESP8266 NodeMCU - projectiot123 Technology Information Website worldwide",
+               "type": "url",
+               "url": "https://projectiot123.com/2020/10/01/ntp-server-to-get-date-and-time-esp8266-nodemcu/"
+            }, {
+               "date_added": "13299079353767631",
+               "guid": "d6cd55ac-3009-4d2d-9ebb-8e1dba5a8f5b",
+               "id": "160",
+               "name": "Enable / Disable widget button - Need Help With My Project - Blynk Community",
+               "type": "url",
+               "url": "https://community.blynk.cc/t/enable-disable-widget-button/21495/4"
             } ],
             "date_added": "13286041444563847",
-            "date_modified": "13295492178472326",
+            "date_modified": "13299815321223172",
             "guid": "4dac1712-75a0-406c-a2dc-d00d09e946b1",
             "id": "16",
             "name": "blynk",
@@ -262,22 +297,43 @@
                "type": "url",
                "url": "https://www.makeuseof.com/tag/raspberry-pi-commands-cheat-sheet/"
             }, {
-               "date_added": "13295922815302059",
-               "guid": "0e302e13-fab8-4f06-a6d3-e97c152ad52a",
-               "id": "118",
-               "name": "Getting Started with the ESP32 - Using the Arduino IDE",
-               "type": "url",
-               "url": "https://dronebotworkshop.com/esp32-intro/"
-            }, {
                "date_added": "13296001553237021",
                "guid": "b08ce9c8-ec04-45ec-b0a3-cbe17d554496",
                "id": "119",
                "name": "Introduction to LittleFs, Write LittleFs, Read Little Fs and Delete in LittleFs : 11 Steps - Instructables",
                "type": "url",
                "url": "https://www.instructables.com/Introduction-to-LittleFs-Write-LittleFs-Read-Littl/"
+            }, {
+               "date_added": "13297896566209954",
+               "guid": "2f11cf22-7888-4fc1-a43c-c39ce0956ec9",
+               "id": "145",
+               "name": "42 of the Most Useful Raspberry Pi Commands",
+               "type": "url",
+               "url": "https://www.circuitbasics.com/useful-raspberry-pi-commands/"
+            }, {
+               "date_added": "13298484449381998",
+               "guid": "efe29b7f-70e9-45f4-8847-b1de56cfa378",
+               "id": "151",
+               "name": "C Program to Check if Bit Position is Set to One or not - Sanfoundry",
+               "type": "url",
+               "url": "https://www.sanfoundry.com/c-program-check-if-bit-position-is-set/"
+            }, {
+               "date_added": "13299816028099326",
+               "guid": "eef9b7c3-16c2-471c-97b0-4dbec607abc1",
+               "id": "175",
+               "name": "Git Commit | W3Docs Online Git Tutorial",
+               "type": "url",
+               "url": "https://www.w3docs.com/learn-git/git-commit.html"
+            }, {
+               "date_added": "13299945768272874",
+               "guid": "a13e59c3-51c5-4c7b-b468-5f23dab9cf6d",
+               "id": "180",
+               "name": "Install micropython on Raspberry Pi using the Snap Store | Snapcraft",
+               "type": "url",
+               "url": "https://snapcraft.io/install/micropython/raspbian"
             } ],
             "date_added": "13288931307346920",
-            "date_modified": "13296002392981158",
+            "date_modified": "13300027505463099",
             "guid": "0f38e85b-3a9e-4eee-b652-1ae51b8a00be",
             "id": "49",
             "name": "class",
@@ -306,33 +362,56 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13289104100513158",
-               "guid": "e5730b02-cd50-4d46-8519-02f84652b7f9",
-               "id": "53",
-               "name": "MicroPython tutorial for ESP8266 — MicroPython 1.18 documentation",
-               "type": "url",
-               "url": "https://docs.micropython.org/en/latest/esp8266/tutorial/index.html"
+               "children": [ {
+                  "date_added": "13295922815302059",
+                  "guid": "0e302e13-fab8-4f06-a6d3-e97c152ad52a",
+                  "id": "118",
+                  "name": "Getting Started with the ESP32 - Using the Arduino IDE",
+                  "type": "url",
+                  "url": "https://dronebotworkshop.com/esp32-intro/"
+               }, {
+                  "date_added": "13297778793392754",
+                  "guid": "b148f3cb-61e2-4b22-8d47-2ab06e5ae2dc",
+                  "id": "141",
+                  "name": "Getting Current Date and Time with ESP8266 NodeMCU ( NTP Server )",
+                  "type": "url",
+                  "url": "https://microcontrollerslab.com/current-date-time-esp8266-nodemcu-ntp-server/"
+               }, {
+                  "date_added": "13298040503000742",
+                  "guid": "f522ec78-c17a-4194-8dba-123c4dc537e7",
+                  "id": "146",
+                  "name": "ESP8266 tips and tricks",
+                  "type": "url",
+                  "url": "https://www.weigu.lu/microcontroller/tips_tricks/esp_NTP_tips_tricks/index.html"
+               }, {
+                  "date_added": "13298085386668624",
+                  "guid": "2a3dc971-7d4b-4cfa-9eae-874cf45f7eb4",
+                  "id": "147",
+                  "name": "Timezone Abbreviations",
+                  "type": "url",
+                  "url": "https://remotemonitoringsystems.ca/time-zone-abbreviations.php"
+               } ],
+               "date_added": "13297784687132040",
+               "date_modified": "13298170741594493",
+               "guid": "f25f5fa0-16bc-4c83-ae03-5bb5e80cb8a6",
+               "id": "143",
+               "name": "time",
+               "type": "folder"
             }, {
-               "date_added": "13289232240087074",
-               "guid": "adb11c3c-bb1f-4df5-8f86-09e3d843f897",
-               "id": "58",
-               "name": "Connect the ESP8266 WiFi Chip to your Raspberry Pi",
-               "type": "url",
-               "url": "https://makecademy.com/connect-esp8266-raspberry-pi"
-            }, {
-               "date_added": "13289234639852557",
-               "guid": "f082cef0-f92b-413c-905a-daa8db95aa35",
-               "id": "59",
-               "name": "Getting Started With the ESP8266 ESP-01 : 20 Steps - Instructables",
-               "type": "url",
-               "url": "https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/"
-            }, {
-               "date_added": "13289333125684263",
-               "guid": "d787b697-1ce7-4f13-a16b-1a0c1bf7d8ea",
-               "id": "61",
-               "name": "Breadboard and Program an ESP-01 Circuit with the Arduino IDE - Projects",
-               "type": "url",
-               "url": "https://www.allaboutcircuits.com/projects/breadboard-and-program-an-esp-01-circuit-with-the-arduino-ide/"
+               "children": [ {
+                  "date_added": "13298170741594493",
+                  "guid": "2980e1e1-95f7-4f9c-84ba-cf61888fe1cb",
+                  "id": "148",
+                  "name": "ESP8266 with BME280 using Arduino IDE (Pressure, Temperature, Humidity) | Random Nerd Tutorials",
+                  "type": "url",
+                  "url": "https://randomnerdtutorials.com/esp8266-bme280-arduino-ide/"
+               } ],
+               "date_added": "13298170806003658",
+               "date_modified": "13298217864937029",
+               "guid": "6a3879c5-04fc-4a1c-a65a-c476a1ff5412",
+               "id": "149",
+               "name": "bmp280",
+               "type": "folder"
             }, {
                "children": [ {
                   "date_added": "13289333534362288",
@@ -362,6 +441,77 @@
                "id": "63",
                "name": "boot",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13290361176775951",
+                  "guid": "3c23725b-7b26-4083-a878-b20dd541de18",
+                  "id": "88",
+                  "name": "ADS1115 I2C external ADC with ESP32 in Arduino IDE",
+                  "type": "url",
+                  "url": "https://microcontrollerslab.com/ads1115-external-adc-with-esp32/"
+               }, {
+                  "date_added": "13289752978981692",
+                  "guid": "78e30787-65bf-469d-9b2b-148f96e43add",
+                  "id": "73",
+                  "name": "ads1115 - NodeMCU Documentation",
+                  "type": "url",
+                  "url": "https://nodemcu.readthedocs.io/en/release/modules/ads1115/"
+               }, {
+                  "date_added": "13290569038212635",
+                  "guid": "8bf945c6-1ee7-484b-be06-65f896f5c7a5",
+                  "id": "96",
+                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
+                  "type": "url",
+                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/9"
+               }, {
+                  "date_added": "13290572545222031",
+                  "guid": "99d463a7-b4ee-4f43-842f-8707f3932207",
+                  "id": "98",
+                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
+                  "type": "url",
+                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/15"
+               }, {
+                  "date_added": "13290573555832878",
+                  "guid": "12cfcfcd-ee73-488c-8d9a-08242995a52d",
+                  "id": "99",
+                  "name": "Exercise: NodeMCU I2C ADC",
+                  "type": "url",
+                  "url": "https://cmuphyscomp.github.io/60-223-f16/exercises/mobile/NodeMCU-I2C-ADC/index.html"
+               } ],
+               "date_added": "13290361212630057",
+               "date_modified": "13290581084938938",
+               "guid": "7611b4fe-5215-4221-85ba-0d5bfae7a2ed",
+               "id": "89",
+               "name": "ADC_ESP",
+               "type": "folder"
+            }, {
+               "date_added": "13289104100513158",
+               "guid": "e5730b02-cd50-4d46-8519-02f84652b7f9",
+               "id": "53",
+               "name": "MicroPython tutorial for ESP8266 — MicroPython 1.18 documentation",
+               "type": "url",
+               "url": "https://docs.micropython.org/en/latest/esp8266/tutorial/index.html"
+            }, {
+               "date_added": "13289232240087074",
+               "guid": "adb11c3c-bb1f-4df5-8f86-09e3d843f897",
+               "id": "58",
+               "name": "Connect the ESP8266 WiFi Chip to your Raspberry Pi",
+               "type": "url",
+               "url": "https://makecademy.com/connect-esp8266-raspberry-pi"
+            }, {
+               "date_added": "13289234639852557",
+               "guid": "f082cef0-f92b-413c-905a-daa8db95aa35",
+               "id": "59",
+               "name": "Getting Started With the ESP8266 ESP-01 : 20 Steps - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/"
+            }, {
+               "date_added": "13289333125684263",
+               "guid": "d787b697-1ce7-4f13-a16b-1a0c1bf7d8ea",
+               "id": "61",
+               "name": "Breadboard and Program an ESP-01 Circuit with the Arduino IDE - Projects",
+               "type": "url",
+               "url": "https://www.allaboutcircuits.com/projects/breadboard-and-program-an-esp-01-circuit-with-the-arduino-ide/"
             }, {
                "date_added": "13289365623494528",
                "guid": "b271e17d-53a9-40bd-bf2f-d064765bbc26",
@@ -468,49 +618,6 @@
                "type": "url",
                "url": "https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/"
             }, {
-               "children": [ {
-                  "date_added": "13290361176775951",
-                  "guid": "3c23725b-7b26-4083-a878-b20dd541de18",
-                  "id": "88",
-                  "name": "ADS1115 I2C external ADC with ESP32 in Arduino IDE",
-                  "type": "url",
-                  "url": "https://microcontrollerslab.com/ads1115-external-adc-with-esp32/"
-               }, {
-                  "date_added": "13289752978981692",
-                  "guid": "78e30787-65bf-469d-9b2b-148f96e43add",
-                  "id": "73",
-                  "name": "ads1115 - NodeMCU Documentation",
-                  "type": "url",
-                  "url": "https://nodemcu.readthedocs.io/en/release/modules/ads1115/"
-               }, {
-                  "date_added": "13290569038212635",
-                  "guid": "8bf945c6-1ee7-484b-be06-65f896f5c7a5",
-                  "id": "96",
-                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
-                  "type": "url",
-                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/9"
-               }, {
-                  "date_added": "13290572545222031",
-                  "guid": "99d463a7-b4ee-4f43-842f-8707f3932207",
-                  "id": "98",
-                  "name": "Nodemcu using ADC extender ads1115 - Solved - Blynk Community",
-                  "type": "url",
-                  "url": "https://community.blynk.cc/t/nodemcu-using-adc-extender-ads1115/18511/15"
-               }, {
-                  "date_added": "13290573555832878",
-                  "guid": "12cfcfcd-ee73-488c-8d9a-08242995a52d",
-                  "id": "99",
-                  "name": "Exercise: NodeMCU I2C ADC",
-                  "type": "url",
-                  "url": "https://cmuphyscomp.github.io/60-223-f16/exercises/mobile/NodeMCU-I2C-ADC/index.html"
-               } ],
-               "date_added": "13290361212630057",
-               "date_modified": "13290581084938938",
-               "guid": "7611b4fe-5215-4221-85ba-0d5bfae7a2ed",
-               "id": "89",
-               "name": "ADC_ESP",
-               "type": "folder"
-            }, {
                "date_added": "13290557879459045",
                "guid": "920f4c2f-e170-4ba0-afcb-2f0ea7d0404c",
                "id": "93",
@@ -601,9 +708,53 @@
                "name": "ESP 8266 Nodemcu Uploading code over wifi | ESP OTA UPDATE - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=jscp4a59DqA"
+            }, {
+               "date_added": "13297608885584529",
+               "guid": "7e7d3b86-5515-45d0-a172-0c0df5e76a6d",
+               "id": "135",
+               "name": "I Built a Van Smart Computer with a Raspberry Pi! - Mercedes Vito Camper Conversion Episode 17 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=uCSJ8QklyK4"
+            }, {
+               "children": [ {
+                  "date_added": "13298906280330315",
+                  "guid": "a5ffe08e-5dfe-46f1-b154-ce22a2c5b69c",
+                  "id": "155",
+                  "name": "ESP8266 / Arduino UDP Multicast example",
+                  "type": "url",
+                  "url": "https://gist.github.com/mqu/f8d4f6877703bb39676d68733801871d"
+               }, {
+                  "date_added": "13298907337071493",
+                  "guid": "d68afc13-f4d1-4a4d-8232-5bac2aea931c",
+                  "id": "157",
+                  "name": "ESP8266 UDP Send & Receive Example (Step-by-Step Tutorial) – Siytek",
+                  "type": "url",
+                  "url": "https://siytek.com/esp8266-udp-send-receive/#Prerequisite"
+               } ],
+               "date_added": "13298906333209303",
+               "date_modified": "13298937465685854",
+               "guid": "36d8d926-c9a5-4828-a5b7-a8fcb86f9a87",
+               "id": "156",
+               "name": "broadcast",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13299128007367024",
+                  "guid": "09cf5586-b4c5-4b8a-b25d-25ba03f5fd2c",
+                  "id": "162",
+                  "name": "ESP8266 OTA with Arduino IDE | Random Nerd Tutorials",
+                  "type": "url",
+                  "url": "https://randomnerdtutorials.com/esp8266-ota-updates-with-arduino-ide-over-the-air/"
+               } ],
+               "date_added": "13299128033292544",
+               "date_modified": "13299345119695391",
+               "guid": "cad4924e-b087-4149-922d-c0dcfdac5b33",
+               "id": "163",
+               "name": "wireless",
+               "type": "folder"
             } ],
             "date_added": "13289104136741118",
-            "date_modified": "13297349806098811",
+            "date_modified": "13299128019411758",
             "guid": "a6ed7695-1c4c-4500-b781-9f28f7c7d28d",
             "id": "54",
             "name": "esp8266",
@@ -616,9 +767,16 @@
                "name": "Install Arduino IDE on Raspberry Pi - Raspberry Pi Spy",
                "type": "url",
                "url": "https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/"
+            }, {
+               "date_added": "13299815302782098",
+               "guid": "5dd42661-d154-4324-bd3f-aae98f63dcd1",
+               "id": "174",
+               "name": "String Comparison Operators | Arduino Documentation | Arduino Documentation",
+               "type": "url",
+               "url": "https://docs.arduino.cc/built-in-examples/strings/StringComparisonOperators"
             } ],
             "date_added": "13289176059067632",
-            "date_modified": "13289232240087074",
+            "date_modified": "13299816028099326",
             "guid": "530138a9-49fe-4f33-beb6-660dfb346a30",
             "id": "56",
             "name": "ardunio",
@@ -716,6 +874,131 @@
             "guid": "e89ebf09-7fcf-47ce-b77a-df591e59d12b",
             "id": "122",
             "name": "DNS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13297702410136766",
+               "guid": "37aa5295-588c-4705-8b8c-ebd030fabfe2",
+               "id": "137",
+               "name": "How to Solve Raspberry Pi under voltage detected problem",
+               "type": "url",
+               "url": "https://digitaldopes.com/how-to-solve-raspberry-pi-under-voltage-detected/"
+            } ],
+            "date_added": "13297702427136465",
+            "date_modified": "13297730286098390",
+            "guid": "f6dd9195-2652-448c-9c06-d9328c087973",
+            "id": "138",
+            "name": "low v",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13298937465685854",
+               "guid": "83e3190f-4f90-4840-bd98-5aff5c7688fe",
+               "id": "158",
+               "name": "How to implement UDP sockets in C",
+               "type": "url",
+               "url": "https://www.educative.io/edpresso/how-to-implement-udp-sockets-in-c"
+            }, {
+               "date_added": "13299098567998094",
+               "guid": "66e6da62-86a0-4c9a-be3b-c33b060fd2a8",
+               "id": "161",
+               "name": "Communication between two ESP8266s via UDP • AranaCorp",
+               "type": "url",
+               "url": "https://www.aranacorp.com/en/communication-between-two-esp8266s-via-udp/"
+            } ],
+            "date_added": "13298937491990647",
+            "date_modified": "13299128007367024",
+            "guid": "7f6cd84c-34b1-4cac-8234-a98427fbbbba",
+            "id": "159",
+            "name": "udp",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13299366314663704",
+               "guid": "2d77129c-d5df-4f8d-adc6-0871c6cc3a1d",
+               "id": "167",
+               "name": "MySQL Create User & Grant Permissions [Tutorial] | strongDM",
+               "type": "url",
+               "url": "https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to#:~:text=Create%20a%20new%20MySQL%20user%20account&text=mysql%3E%20CREATE%20USER%20'local_user',directly%20from%20any%20other%20machine."
+            }, {
+               "date_added": "13299683460858123",
+               "guid": "d307d5f9-712d-4c61-a32e-d7d074edd336",
+               "id": "170",
+               "name": "MySQL DELETE - Deleting Data from a Table",
+               "type": "url",
+               "url": "https://www.mysqltutorial.org/mysql-delete-statement.aspx"
+            }, {
+               "date_added": "13299683873029209",
+               "guid": "8b25a624-d965-498f-9701-4be74da6e8d8",
+               "id": "171",
+               "name": "MySQL: Reset the Next Value in AUTO_INCREMENT column",
+               "type": "url",
+               "url": "https://www.techonthenet.com/mysql/auto_increment_reset.php"
+            }, {
+               "date_added": "13299689971645125",
+               "guid": "7ae413eb-1c76-46bd-8e31-7dbd880fcf38",
+               "id": "172",
+               "name": "How to list all databases in MySQL",
+               "type": "url",
+               "url": "https://www.sqlsplus.com/how-to-list-all-databases-in-mysql/"
+            } ],
+            "date_added": "13299366335688729",
+            "date_modified": "13299815302782098",
+            "guid": "e3873c47-b383-4cda-9014-f68935360033",
+            "id": "168",
+            "name": "mysql",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13299943898383454",
+               "guid": "b4d20e91-5a23-45b3-8f84-b2f6f17ce75a",
+               "id": "177",
+               "name": "How to install MicroPython on an ESP32 microcontroller - Python for Undergraduate Engineers",
+               "type": "url",
+               "url": "https://pythonforundergradengineers.com/how-to-install-micropython-on-an-esp32.html"
+            }, {
+               "date_added": "13299943995294138",
+               "guid": "3608ee97-da7a-40c8-b27a-936c157cb8d3",
+               "id": "179",
+               "name": "micropython on raspberry pi 4 - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=micropython+on+raspberry+pi+4&sxsrf=ALiCzsbY9fBjWoPOr2KdKFv9zYLxk85-Jw%3A1655470346280&ei=CnmsYpnTELK7qtsPpJ-k-AQ&oq=install+micropython+on+raspberry+pi&gs_lcp=Cgdnd3Mtd2l6EAEYATIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIKCAAQ5AIQsAMYATIKCAAQ5AIQsAMYATIKCAAQ5AIQsAMYATIKCAAQ5AIQsAMYATIKCAAQ5AIQsAMYAUoECEEYAEoECEYYAVAAWABg4SNoAXABeACAAQCIAQCSAQCYAQDIAQ3AAQHaAQYIARABGAk&sclient=gws-wiz"
+            }, {
+               "children": [ {
+                  "date_added": "13300027505463099",
+                  "guid": "939c67a5-c8f3-44f2-b4f8-f1100fd9ed28",
+                  "id": "181",
+                  "name": "1. Getting started with MicroPython on the ESP32 — MicroPython 1.19.1 documentation",
+                  "type": "url",
+                  "url": "https://docs.micropython.org/en/latest/esp32/tutorial/intro.html"
+               } ],
+               "date_added": "13300027545423272",
+               "date_modified": "13300116033470178",
+               "guid": "7191b34b-666f-4372-9f81-c04d1d258400",
+               "id": "182",
+               "name": "microPython",
+               "type": "folder"
+            } ],
+            "date_added": "13299943916008238",
+            "date_modified": "13299945768272874",
+            "guid": "cb08d1da-d461-42f1-8068-fc1db1b39a7d",
+            "id": "178",
+            "name": "esp32",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13300116033470178",
+               "guid": "76995c14-93a9-4b11-8c00-b8942eeb845c",
+               "id": "184",
+               "name": "EP-0152 - 52Pi Wiki",
+               "type": "url",
+               "url": "https://wiki.52pi.com/index.php?title=EP-0152"
+            } ],
+            "date_added": "13300116076440261",
+            "date_modified": "13300116076440545",
+            "guid": "9993ee01-6fdb-486a-b21a-16b0f9d94d41",
+            "id": "185",
+            "name": "fan",
             "type": "folder"
          } ],
          "date_added": "13285890514422337",
